@@ -17,8 +17,6 @@ Recognizing the imbalance in the original dataset, a Large Language Model was em
 ### Data Preprocessing and Feature Engineering
 The preprocessing phase involved a systematic approach to tokenization and vocabulary building. By breaking down essays into individual words and constructing a comprehensive vocabulary, a solid foundation for feature extraction was established, essential for the effective application of the Naive Bayes Classifier.
 
-![image](/assets/images/1.jpg)
-
 ### Implementation of Naive Bayes Classifier
 At the core of the solution is the Naive Bayes Classifier, optimized for text data classification. It is adept at distinguishing between human-generated and LLM-generated essays, employing a combination of word frequency analysis and conditional probability calculations.
 
